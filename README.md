@@ -85,7 +85,7 @@ Email✉️ eren41cesme@gmail.com
   </span>
   <!--C-->
   <span style="display:inline-block; width:60px; height:60px; margin:5px; border:5px solid #000000ff; border-radius:10px; padding:5px;background-color: #ffffff; ">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
   </span>
   <!--HTML-->
   <span style="display:inline-block; width:60px; height:60px; margin:5px; border:5px solid #000000ff; border-radius:10px; padding:5px;background-color: #ffffff; ">
