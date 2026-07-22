@@ -88,8 +88,8 @@ Email✉️ eren41cesme@gmail.com
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
   </span>
   <!--HTML-->
-  <span style="display:inline-block; width:60px; height:60px; margin:5px; border:5px solid #000000ff; border-radius:10px; padding:5px;background-color: #ffffff; ">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="HTML5 Logo" width="80"/>
+  <span style="display:inline-block; width:60px; height:60px; margin:5px; border:5px solid #000000ff; border-radius:10px; padding:5px;background-color: #ffffff; 
+     <p align="center">
   </span>
   <!--CSS-->
   <span style="display:inline-block; width:60px; height:60px; margin:5px; border:5px solid #000000ff; border-radius:10px; padding:5px; background-color: #ffffff;">
@@ -114,6 +114,8 @@ Email✉️ eren41cesme@gmail.com
 <span style="display:inline-block; width:60px; height:60px;  align-items:center; justify-content:center; margin:5px;border:5px solid #000000ff; border-radius:10px; padding:5px; background-color: #ffffffff;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="100"/>
 </span>
+<!--Indeed-->
+<img src="https://cdn.simpleicons.org/indeed" width="50" alt="Indeed"/>
 <!--Nasa-->
 <span style="display:inline-block; width:60px; height:60px; align-items:center; justify-conten:center; margin:5px; border:5px solid #000000ff; border-radius:10px; padding:5px;background-color: #ffffffff;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" width="50" height="100"/>
@@ -144,7 +146,5 @@ margin:5px; border:5px solid #000000ff; border-radius:10px; background-color: #f
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width=50:
  height="100" alt="Android Logo" />
 </span>
- 
-
           
  
